@@ -8,4 +8,4 @@
 </ul>
 
 <h3>Preview</h3>
-![preview](/images/todolist.png)
+![preview](images/todolist.png)
